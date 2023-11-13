@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-aqua?style=for-the-badge&logo=python&logoColor=black"/> 
 <img src="https://img.shields.io/badge/C++-aquamarine?style=for-the-badge&logo=cplusplus&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe illustrator-8B4513?style=for-the-badge&logo=adobeillustrator"/>
-
+<img src="https://img.shields.io/badge/Adobe Photoshop-8B4513?style=for-the-badge&logo=adobephotoshop"/>
 <!--
 **Zulu002/Zulu002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
