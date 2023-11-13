@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Godot-aqua?style=for-the-badge&logo=godotengine&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-aqua?style=for-the-badge&logo=python&logoColor=yellow"/> 
+<img src="https://img.shields.io/badge/Python-aqua?style=for-the-badge&logo=python&logoColor=FFF00"/> 
 <img src="https://img.shields.io/badge/C++-aquamarine?style=for-the-badge&logo=cplusplus&logoColor=black"/>
 <img src="https://img.shields.io/badge/Adobe illustrator-8B4513?style=for-the-badge&logo=adobeillustrator"/>
 <img src="https://img.shields.io/badge/Adobe Photoshop-000080?style=for-the-badge&logo=adobephotoshop"/>
