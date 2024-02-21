@@ -8,6 +8,6 @@
 </p>
 
 <p align="center">
-  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/m_ritter)
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/m_ritter)">
 </p>
 
