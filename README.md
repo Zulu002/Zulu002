@@ -1,15 +1,40 @@
+<div align="center" style="background: linear-gradient(45deg, #1a1a2e, #16213e); padding: 30px; border-radius: 15px; color: white;">
+  
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU3dWY0b2J0bWQ1eWJ6ZzV0YzR6eGJ6Y2VjZzZqZzZqZzZqZzZqZ3hha2xuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6ppZr7ob8L6w/giphy.gif" width="800">
 
-<h1 align="left" >
-  Hi I'm RAKKA
-</h1>
+  # Привет, я RAKKA! 👋
+  
+  **🎮 Начинающий геймдев | 🎨 Дизайнер | 💻 Python/C# энтузиаст**  
+  Недавно окончил колледж и погружаюсь в мир игровой разработки, дизайна и других направлений в сфере IT.
 
-<p align="center" >
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWllbG95aXl0NWg5aGh6azF3ZnhqNXNlZzltbzBzd3dlOHYzb3ByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6ppZr7ob8L6w/giphy.gif" width="500">
-</p>
+</div>
 
-<p align="center">
-  <a href="https://t.me/divinityguard">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white">
-  </a>
-</p>
+---
 
+### **🛠️ Мой стек технологий**
+<div style="background: #f8f9fa; padding: 20px; border-radius: 10px; margin-top: 20px;">
+
+  #### **🎮 Игровые движки:**
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot">
+
+  #### **💻 Языки:**
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+
+  #### **🎨 Дизайн:**
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
+</div>
+
+---
+
+### **📫 Как связаться**
+<div align="left" style="margin-top: 30px;">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/divinityguard)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gadzizulumhanov199@gmail.com)
+  
+</div>
