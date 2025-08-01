@@ -4,13 +4,19 @@
 
   # Hi, I'm RAKKA!
   
-  **🎮 Novice game developer | 🎨 Designer | 💻 Python/C# enthusiast**  
+  **🎮 Novice game developer | 🎨 Designer | 💻 Web development**  
   I recently graduated from college and am immersed in the world of game development, design and other areas in the field of IT.
 
 </div>
-### **📫 How to contact**
+
 <div align="center" style="margin-top: 30px;">
   
-  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/divinityguard)
+  ### **How to contact**
+  
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/MgsPatriots)
   
 </div>
