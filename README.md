@@ -9,7 +9,7 @@
 
 </div>
 ### **📫 How to contact**
-<div align="left" style="margin-top: 30px;">
+<div align="center" style="margin-top: 30px;">
   
   [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/divinityguard)
   
