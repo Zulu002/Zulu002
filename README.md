@@ -2,7 +2,7 @@
   
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU3dWY0b2J0bWQ1eWJ6ZzV0YzR6eGJ6Y2VjZzZqZzZqZzZqZzZqZ3hha2xuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6ppZr7ob8L6w/giphy.gif" width="800">
 
-  # Hi, I'm RAKKA!
+  # Hi, I'm KANONU!
   
   **🎮 Novice game developer | 🎨 Designer | 💻 Web development**  
   I recently graduated from college and am immersed in the world of game development, design and other areas in the field of IT.
