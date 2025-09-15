@@ -5,7 +5,7 @@
   # Hi, I'm KANONU!
   
   **🎮 Novice game developer | 🎨 Designer | 💻 Web development**  
-  I recently graduated from college and am immersed in the world of game development, design and other areas in the field of IT.
+  Logic can take you from point A to point B. Imagination can take you anywhere.
 
 </div>
 
