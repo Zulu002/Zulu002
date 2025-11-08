@@ -1,6 +1,5 @@
 <div align="left">
     <img src="logo.svg" alt="Логотип" width="200">
-  </a>
   
   <h2>Обо мне</h2>
   <b>«Никогда не должен был прийти сюда!»</b> | <b>«Даже самая маленькая деталь может изменить будущее»<b>
@@ -13,3 +12,9 @@
 </div>
 
 ---
+
+<div align="center">
+    
+![](https://komarev.com/ghpvc/?username=Zulu002&color=9D0419&style=flat-square)
+<h3>***</h3>
+</div>
