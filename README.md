@@ -1,5 +1,5 @@
 <div align="center";>
-    <img src="logo.svg" alt="Логотип" width="200">
+    <img src="logo.svg" alt="Логотип">
 </div>
 
 <h2>Обо мне</h2>
@@ -16,6 +16,7 @@
 ---
 
 <div align="center">
+    
 ![](https://komarev.com/ghpvc/?username=Zulu002&color=9D0419&style=flat-square)
 <h3>***</h3>
 </div>
