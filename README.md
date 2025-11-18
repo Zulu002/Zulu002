@@ -17,6 +17,9 @@
 
 <div align="center">
     
-![](https://komarev.com/ghpvc/?username=Zulu002&color=000000&style=flat-square)
-<h3>***</h3>
+<h2> 
+
+![](https://komarev.com/ghpvc/?username=Zulu002&color=000000&style=flat-square) 
+
+</h2>
 </div>
