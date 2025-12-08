@@ -1,5 +1,5 @@
 <div align="center";>
-    <img src="logo.svg" alt="Логотип" width=510>
+    <img src="logo.svg" alt="Логотип" width=450>
 </div>
 
 <h1>Обо мне</h1>
