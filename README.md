@@ -15,11 +15,3 @@
 
 ---
 
-<div align="center">
-    
-<h2> 
-
-![](https://komarev.com/ghpvc/?username=Zulu002&color=000000&style=flat-square) 
-
-</h2>
-</div>
