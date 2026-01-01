@@ -1,7 +1,3 @@
-<div align="center";>
-    <img src="logo.svg" alt="Логотип" width=450>
-</div>
-
 <h1>Обо мне</h1>
 <i><b>Никогда не должен был прийти сюда!</b></i>
 
