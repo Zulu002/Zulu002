@@ -10,7 +10,7 @@
 ---
 
 <div align="justify";>
-<p>Всегда хотел создавать игры. Изначально изучал Unity, но по ряду причин перешел на Godot 4. Параллельно нашел для себя направление Web-design. Умею работать в Figma, Illustrator, Photoshop и Aseprite. Для удобства работы изучаю frontend разработку на Vue.</p>
+<p>Всегда хотел создавать игры. Параллельно нашел для себя направление Web-design. Умею работать в Figma, Illustrator, Photoshop и Aseprite. Для удобства работы изучаю frontend разработку на Vue.</p>
 </div>
 
 ---
