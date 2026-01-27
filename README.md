@@ -1,7 +1,3 @@
-<!-- HEADER / BANNER -->
-<p align="left">
-  <img src="banner_icon.png" alt="Ignidra — О разработчике" width="15%">
-</p>
 
 # О разработчике
 
